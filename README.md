@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 It includes steps for GitHub.
 
 Learning Git is fun.
+
+Git pull to update the local Git after edit code on GitHub.
