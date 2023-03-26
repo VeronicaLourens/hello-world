@@ -8,3 +8,7 @@ It includes steps for GitHub.
 Learning Git is fun.
 
 Git pull to update the local Git after edit code on GitHub.
+
+Create a new branch on local Git named "update-readme" and then switch to the new branch.
+
+
